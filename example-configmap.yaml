@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: example-configmap
 data:
-  APP_NAME: "MyAplicacion"
+  APP_NAME: "MyApplication"
   APP_ENV: "producion"
